@@ -58,6 +58,6 @@ For the DDS and SSA it eliminates paper from the process and streamlines disabil
 
 - SSA Disability Programs: <https://www.ssa.gov/benefits/disability/>
 - SSA ERE Program: <https://www.ssa.gov/ere>
-- SSA ERE Outreach Mailbox: ere.outreach.center@ssa.gov
-- SSA ERE Mailbox: electronic-records-express@ssa.gov
+- SSA ERE Outreach Mailbox: <ere.outreach.center@ssa.gov>
+- SSA ERE Mailbox: <electronic-records-express@ssa.gov>
 - SSA Secure Site Demo: <https://www.ssa.gov/ere/ere_demo_public/index.html>
